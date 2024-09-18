@@ -1,0 +1,2 @@
+Should be a simple calculator that can perform the 4 basic operations + - * /
+Input should be a # b where a and b are numbers and # is an operator + - * or /, with spaces in-between to allow the program to distinguish each item.
