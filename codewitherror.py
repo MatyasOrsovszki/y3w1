@@ -4,13 +4,13 @@ number 2 = float(problem.split()[-1])
 operation = str(problem.split()[1])
 
 class CALCULATOR:
-    def add(a,b):
+    def add(self,a,b):
         return a+b
-    def subtract(a,b):
+    def subtract(self,a,b):
         return a-b
-    def multiply(a,b):
+    def multiply(self,a,b):
         return a*b
-    def divide(a,b):
+    def divide(self,a,b):
         return a/b
 
 CALC = calculator
